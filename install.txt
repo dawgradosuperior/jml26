@@ -1,0 +1,5 @@
+Para la instalacción
+
+Descargar el archivo y subirlo al hosting.
+
+para pode realizarlo mediante github
